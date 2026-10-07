@@ -37,8 +37,9 @@ The demo supports five scenario-oriented facade appearance presets:
 
 ## Installation
 
+After cloning this repo, please run the command below.
+
 ```bash
-git clone https://github.com/IngIeoAndSpare/Style_transfer_for_Building_model.git
 cd Style_transfer_for_Building_model
 
 python3 -m venv venv
