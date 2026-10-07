@@ -9,14 +9,14 @@ The pipeline converts fragmented texture atlases into facade-aligned images, app
 ## Overview
 
 <p align="center">
-  <img src="figure/Propose_pipline.png" width="900">
+  <img src="figures/Propose_pipline.png" width="900">
 </p>
 
 The pipeline modifies the texture appearance only and does not require remeshing of the source building asset.
 
 ## Demo overview
 <p align="center">
-  <img src="figure/Demo_overview.png" width="900">
+  <img src="figures/Demo_overview.png" width="900">
 </p>
 
 The demo supports five scenario-oriented facade appearance presets:
