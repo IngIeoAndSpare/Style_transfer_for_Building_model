@@ -26,6 +26,7 @@ The demo supports five scenario-oriented facade appearance presets:
 - Traffic-induced soiling
 - Post-earthquake cracking
 - Facade peeling
+
 (A custom reference image and text prompt can also be used to specify the target appearance)
 
 ## Tested environment:
@@ -33,6 +34,26 @@ The demo supports five scenario-oriented facade appearance presets:
 - NVIDIA RTX 4090 24 GB
 - Python 3.10
 - PyTorch 2.6.0 + CUDA 12.4
+
+## Installation
+
+```bash
+git clone https://github.com/IngIeoAndSpare/Style_transfer_for_Building_model.git
+cd Style_transfer_for_Building_model
+
+python3 -m venv venv
+source venv/bin/activate
+
+pip install --upgrade pip
+
+pip install torch==2.6.0 torchvision==0.21.0 \
+    --index-url https://download.pytorch.org/whl/cu124
+
+# no weights are downloaded
+bash scripts/setup_engine.sh
+pip install -r requirements.txt
+```
+
 
 
 ## Thanks to

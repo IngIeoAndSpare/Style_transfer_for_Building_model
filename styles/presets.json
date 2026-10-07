@@ -1,0 +1,32 @@
+[
+ {
+  "key": "fire_damage",
+  "label": "Fire damage",
+  "image": "fire_damage.png",
+  "prompt": "Realistic fire-damaged building facade with charred surfaces, soot streaks, blackened textures, and detailed burn patterns. Broken or partially shattered windows and signs of structural weakening under a dark, smoky atmosphere. Preserve the original building structure, facade layout, window positions, proportions, and perspective with no deformation."
+ },
+ {
+  "key": "corrosion_rust",
+  "label": "Corrosion and rust",
+  "image": "corrosion_rust.png",
+  "prompt": "Front-view ultra-realistic photo. Photorealistic aged building facade with cracks, peeling and faded paint, rust on metal parts, weathered surfaces, and dusty, grimy windows. Preserve the original facade layout, window positions, proportions, and perspective; no deformation or structural changes."
+ },
+ {
+  "key": "traffic_soiling",
+  "label": "Traffic-induced soiling",
+  "image": "traffic_soiling.png",
+  "prompt": "Front-view ultra-realistic photo of a mid-rise fa\u00e7ade exposed to urban traffic. Soot and diesel grime darken spandrels and lintels, with vertical rain runoff streaks at joints and anchors. Subtle paint chalking, metal micro-pitting, damp ledges, soft overcast daylight, sharp undistorted architecture."
+ },
+ {
+  "key": "earthquake_cracking",
+  "label": "Post-earthquake cracking",
+  "image": "earthquake_cracking.jpg",
+  "prompt": "photorealistic building facade with post-earthquake damage marks, diagonal shear cracks and fine crack network, local spalling patterns and discoloration, keep window positions and proportions unchanged, texture-only change, no structural deformation."
+ },
+ {
+  "key": "facade_peeling",
+  "label": "Facade peeling",
+  "image": "facade_peeling.jpg",
+  "prompt": "aged building facade with tile peeling patches, plaster detachment, moisture-related staining, texture changes only, preserve facade geometry and window grid, realistic material deterioration."
+ }
+]
