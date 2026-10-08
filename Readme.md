@@ -83,5 +83,13 @@ The downloaded files can be verified using:
 bash scripts/download_models.sh --check
 ```
 
+## Additional Demo Data
+
+Additional example data for running the demo are provided separately due to file size.
+
+[Download the example data](https://drive.google.com/file/d/1FC8kVi8qpEIZ2xKDLfLxFwl1dP9Rd1A4/view?usp=sharing)
+
+After downloading, extract the archive and use the included example assets as inputs to the demo.
+
 ## Thanks to
 We thank the authors of [StyleCity3D](https://github.com/chenyingshu/stylecity3d) for providing the public 3D scene data. Example buildings used in our public demo were extracted and prepared from the Tokyo (Shibuya) and Los Angeles scenes released with StyleCity3D.
